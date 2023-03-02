@@ -39,6 +39,18 @@ This homework is to specify a Future Home application and describe the key featu
 ### 系統方塊圖
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
 
+### Subject:智能衣櫃
+### Key features:
+連接手機搜尋今日想要怎樣的穿搭，並搭配當日要來往地方的天氣預報做出適合的搭配，並且依據每個人的需求可以設定固定的套件1（工作）、套件2（出遊）…等等。
+
+### Design consideration:
+衣櫃的空間大小可能會是個問題，因為想到的方法是衣服放置固定的位置，然後依據所需要的搭配亮出指定的數字，這樣一來衣櫃裡的空間可能就不能塞很滿了。
+
+### Required tchnologies:
+因此，考慮改良後的智能衣櫃可能是用顏色辨識感應器來去辨識各種衣服，然後搭配一個在衣櫃門外的螢幕來顯示搭配出的衣服，還需要一個輸入端去連結Google資料庫搜索各地天氣預報以及潮流搭配等等的選擇。
+
+### System Block Diagram:
+
 
 <br>
 <br>
