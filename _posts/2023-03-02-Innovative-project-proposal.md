@@ -50,7 +50,7 @@ This homework is to specify a Future Home application and describe the key featu
 因此，考慮改良後的智能衣櫃可能是用顏色辨識感應器來去辨識各種衣服，然後搭配一個在衣櫃門外的螢幕來顯示搭配出的衣服，還需要一個輸入端去連結Google資料庫搜索各地天氣預報以及潮流搭配等等的選擇。
 
 ### System Block Diagram:
-
+![](C:\Users\Leo\OneDrive\圖片\Saved Pictures)
 
 <br>
 <br>
