@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Future Home Applications
+title: Innovative project proposal
 author: [Leo Lee]
 category: [Lecture]
 tags: [jekyll, ai]
