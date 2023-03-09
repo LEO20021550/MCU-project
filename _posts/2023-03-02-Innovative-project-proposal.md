@@ -52,6 +52,9 @@ This homework is to specify a Future Home application and describe the key featu
 ### System Block Diagram:
 ![](https://github.com/LEO20021550/MCU-project/blob/main/images/123.png?raw=true)
 
+### Youtube 智能衣櫃影片
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/7a777WTElMs" title="LG Styler 蒸氣電子衣櫥 使用說明【Mobile01】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <br>
 <br>
 
